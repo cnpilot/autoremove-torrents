@@ -44,8 +44,10 @@ Install from pip
 
     pip install autoremove-torrents
     
-autoremove-torrents的路径    
+autoremove-torrents的路径:
+^^^^^^^^^^^^^^^^^^^^
 which autoremove-torrents
+
 /usr/local/bin/autoremove-torrents
 
 or
